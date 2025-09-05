@@ -1,2 +1,2 @@
 # Git-Tutorial
-Simple tutorial for git
+Simple tutorial for git for Amy
